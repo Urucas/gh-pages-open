@@ -1,6 +1,6 @@
 {
   "name": "gh-pages-open",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "description": "Its the project on github and has a github page, then Open the current project page with gh-pages-open",
   "main": "./cli.js",
   "bin": {
